@@ -1,0 +1,84 @@
+
+body{
+    font-family: Arial;
+    background-color: #9b9696bd;
+    padding: 30px;
+    color: #1a1212;
+    background-image: url("");
+    background-position: center;
+    background-size: cover;
+}
+.app {
+    max-width: 600px;
+    margin: 0 auto 300px;
+    background-color: #dbd2d1;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    margin-bottom: 10px;
+}
+p {
+    margin: 10px 0;
+}
+input {
+    box-sizing: border-box;
+    height: 35px;
+}
+option {
+    box-sizing: border-box;
+    height: 45px;
+}
+button {
+    background-color: #6b2975;
+    color: #826d6d;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    opacity: .8;
+    transition: .3s;
+}
+button:hover {
+    opacity: 1;
+}
+.todo-list {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #8a7d7dab;
+}
+.todo {
+    background-color: #82747480;
+    box-shadow: 0 0 10px rgba(32, 23, 23, 0.1);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Complete{
+    background-color: #64338c;
+}
+.Remove{
+    background-color: #3f164b;
+}
+.todo-form {
+    padding-bottom: 1.5rem;
+}
+input, select {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    width: 100%;
+}
+.Search {
+    border-bottom: 1px solid #58256e;
+    margin-bottom: 20px;
+    padding-bottom:20px;
+}
