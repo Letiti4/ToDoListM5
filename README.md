@@ -13,8 +13,10 @@ Abra seu terminal e execute os comandos a seguir:
 
 Clone o projeto:
   git clone https://github.com/Letiti4/ToDoListM5.git
+
 Entrando na pasta:
   cd ToDoListM5
+
 Abra o VS Code:
   code . 
 No terminal do VS Code:
@@ -23,10 +25,13 @@ Instale as dependências:
   npm install
 Inicie o projeto:
   npm run dev
+
 Abra o link que aparece no terminal:
 Local: http://localhost:5173/
+
 Referência
 Vite
 Node.js
-Autores
+
+Autores:
 Leticia Oliveira - GitHub - LinkedIn
