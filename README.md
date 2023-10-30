@@ -1,4 +1,4 @@
-ToDoListM5
+**ToDoListM5**
 Este projeto oferece uma ferramenta simples para ajudar e capacitar o usuário a gerenciar suas atividades de maneira eficaz, possibilitando a utilização da ferramenta das seguintes formas: adição, edição, exclusão e remoção de tarefas. Foi desenvolvido com Javascript e React.
 
 Requisitos:
