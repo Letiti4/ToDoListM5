@@ -1,17 +1,13 @@
-
 body{
     font-family: Arial;
-    background-color: #9b9696bd;
+    background-color: #f4f4f4;
     padding: 30px;
-    color: #1a1212;
-    background-image: url("");
-    background-position: center;
-    background-size: cover;
+    color: rgb(103, 71, 71);
 }
 .app {
     max-width: 600px;
     margin: 0 auto 300px;
-    background-color: #fff;
+    background-color: rgb(229, 229, 183);
     padding: 20px 30px;
     border-radius: 10px;
 }
@@ -33,7 +29,7 @@ option {
     height: 45px;
 }
 button {
-    background-color: black;
+    background-color: rgb(69, 16, 16);
     color: #fff;
     padding: 5px 10px;
     margin-right: 10px;
@@ -49,11 +45,11 @@ button:hover {
 .todo-list {
     margin-bottom: 20px;
     padding-bottom: 20px;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #d7d4d4;
 }
 .todo {
-    background-color: #ffff;
-    box-shadow: 0 0 10px rgba(32, 23, 23, 0.1);
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 5px;
@@ -62,10 +58,10 @@ button:hover {
     align-items: center;
 }
 .Complete{
-    background-color: black;
+    background-color: rgb(118, 17, 17);
 }
 .Remove{
-    background-color: #ffff;
+    background-color: #0f0505;
 }
 .todo-form {
     padding-bottom: 1.5rem;
@@ -78,7 +74,7 @@ input, select {
     width: 100%;
 }
 .Search {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #555;
     margin-bottom: 20px;
     padding-bottom:20px;
 }

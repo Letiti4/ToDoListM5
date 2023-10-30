@@ -1,65 +1,32 @@
-# ToDoListM5
+ToDoListM5
+Este projeto oferece uma ferramenta simples para ajudar e capacitar o usuário a gerenciar suas atividades de maneira eficaz, possibilitando a utilização da ferramenta das seguintes formas: adição, edição, exclusão e remoção de tarefas. Foi desenvolvido com Javascript e React.
 
-Este projeto oferece uma ferramenta simples para ajudar e capacitar o usuário a gerenciar suas atividades de maneira eficaz, possibilitando a utilização da ferramenta das seguintes formas: adição, edição, exclusão e remoção de tarefas.
-Foi desenvolvido com Javascript e React.
-
-
-## Requisitos:
-
+Requisitos:
 Antes de começar, certifique-se de que as seguintes tecnologias estejam devidamente instaladas em sua máquina:
 
-* [VS Code](https://code.visualstudio.com/download)
+VS Code
 
-* [Node.js](https://nodejs.org/en)
+Node.js
 
-## Instalação:
-
+Instalação:
 Abra seu terminal e execute os comandos a seguir:
 
-* **Clone o projeto:**
-
-```bash
+Clone o projeto:
   git clone https://github.com/Letiti4/ToDoListM5.git
-```
-
-* **Entrando na pasta:**
-
-```bash
+Entrando na pasta:
   cd ToDoListM5
-```
-
-* **Abra o VS Code:**
-
-```bash
+Abra o VS Code:
   code . 
-```
-No terminal do VS Code: 
+No terminal do VS Code:
 
-* **Instale as dependências:**
-
-```bash
+Instale as dependências:
   npm install
-```
-
-* **Inicie o projeto:**
-
-```bash
+Inicie o projeto:
   npm run dev
-```
-
-* **Abra o link que aparece no terminal:**
-
-```bash
-Local:  http://localhost:5173/
-```
-
-
-
-## Referência
-
- - [Vite](https://vitejs.dev/guide/)
- - [Node.js](https://nodejs.org/en)
-
-## Autores
-
-- **Leticia Oliveira** -  [GitHub](https://github.com/Letiti4) - [LinkedIn](https://www.linkedin.com/in/leticia-oliveira-1955301b8/)
+Abra o link que aparece no terminal:
+Local: http://localhost:5173/
+Referência
+Vite
+Node.js
+Autores
+Leticia Oliveira - GitHub - LinkedIn
